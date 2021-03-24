@@ -5,7 +5,7 @@
 ![demo](imgs/checkin.png)
 
 ## 食用指南
-
+20200324
 **首先，Fork本项目到自己的仓库修改。**
 
 ![Fork repository](imgs/fork.png)
